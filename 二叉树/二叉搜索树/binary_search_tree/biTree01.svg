@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1600" height="600">
+	<g id="0,0">
+	<circle cx="800" cy="50" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="800" y="50" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">32,5</text>
+	<ROOT/>
+	</g>
+	<g id="1,0">
+	<circle cx="400" cy="170" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="400" y="170" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">5,4</text>
+	<line x1="400" y1="140" x2="779" y2="71" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="1,1">
+	<circle cx="1200" cy="170" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="1200" y="170" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">49,3</text>
+	<line x1="1200" y1="140" x2="821" y2="71" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="2,0">
+	<circle cx="200" cy="290" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="200" y="290" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">1,2</text>
+	<line x1="200" y1="260" x2="379" y2="191" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="2,1">
+	<circle cx="600" cy="290" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="600" y="290" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">9,3</text>
+	<line x1="600" y1="260" x2="421" y2="191" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="2,2">
+	<circle cx="1000" cy="290" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="1000" y="290" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">39,1</text>
+	<line x1="1000" y1="260" x2="1179" y2="191" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="2,3">
+	<circle cx="1400" cy="290" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="1400" y="290" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">71,2</text>
+	<line x1="1400" y1="260" x2="1221" y2="191" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="3,0">
+	<circle cx="100" cy="410" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="100" y="410" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">0,1</text>
+	<line x1="100" y1="380" x2="179" y2="311" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="3,0">
+	<circle cx="100" cy="410" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="100" y="410" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">0,1</text>
+	<line x1="100" y1="380" x2="179" y2="311" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="3,2">
+	<circle cx="500" cy="410" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="500" y="410" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">7,2</text>
+	<line x1="500" y1="380" x2="579" y2="311" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="3,3">
+	<circle cx="700" cy="410" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="700" y="410" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">26,2</text>
+	<line x1="700" y1="380" x2="621" y2="311" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="3,3">
+	<circle cx="700" cy="410" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="700" y="410" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">26,2</text>
+	<line x1="700" y1="380" x2="621" y2="311" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="3,3">
+	<circle cx="700" cy="410" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="700" y="410" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">26,2</text>
+	<line x1="700" y1="380" x2="621" y2="311" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="3,6">
+	<circle cx="1300" cy="410" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="1300" y="410" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">69,1</text>
+	<line x1="1300" y1="380" x2="1379" y2="311" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="3,6">
+	<circle cx="1300" cy="410" r="30" stroke="black" stroke-width="2" fill="orange" />
+	<text x="1300" y="410" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">69,1</text>
+	<line x1="1300" y1="380" x2="1379" y2="311" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,4">
+	<circle cx="450" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="450" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">6,1</text>
+	<line x1="450" y1="500" x2="479" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,4">
+	<circle cx="450" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="450" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">6,1</text>
+	<line x1="450" y1="500" x2="479" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,4">
+	<circle cx="450" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="450" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">6,1</text>
+	<line x1="450" y1="500" x2="479" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,7">
+	<circle cx="750" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="750" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">28,1</text>
+	<line x1="750" y1="500" x2="721" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,7">
+	<circle cx="750" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="750" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">28,1</text>
+	<line x1="750" y1="500" x2="721" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,7">
+	<circle cx="750" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="750" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">28,1</text>
+	<line x1="750" y1="500" x2="721" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,7">
+	<circle cx="750" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="750" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">28,1</text>
+	<line x1="750" y1="500" x2="721" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,7">
+	<circle cx="750" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="750" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">28,1</text>
+	<line x1="750" y1="500" x2="721" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,7">
+	<circle cx="750" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="750" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">28,1</text>
+	<line x1="750" y1="500" x2="721" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,7">
+	<circle cx="750" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="750" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">28,1</text>
+	<line x1="750" y1="500" x2="721" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,7">
+	<circle cx="750" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="750" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">28,1</text>
+	<line x1="750" y1="500" x2="721" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+	<g id="4,7">
+	<circle cx="750" cy="530" r="30" stroke="black" stroke-width="2" fill="lightgreen" />
+	<text x="750" y="530" fill="red" font-size="20" text-anchor="middle" dominant-baseline="middle">28,1</text>
+	<line x1="750" y1="500" x2="721" y2="431" style="stroke:black;stroke-width:2"/>
+	</g>
+</svg>
